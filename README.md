@@ -13,5 +13,5 @@ Step 5:use ip by uing ip addr show and copy that ip and paste in browser to see 
 
 
 
-And with sam eyou can do desired Hosting
+And with same you can do desired Hosting
 
